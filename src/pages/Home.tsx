@@ -1,5 +1,5 @@
 import "./Home.css";
-import intro from "../assets/images/memo-logo.svg";
+import intro from "../assets/images/memo.jpg";
 
 const Home = () => {
   return (

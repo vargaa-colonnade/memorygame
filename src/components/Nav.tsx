@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "../assets/images/Colonnade-logo.png";
+import logo from "../assets/images/memorygame-logo.png";
 
 const Nav = () => {
   return (

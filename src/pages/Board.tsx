@@ -1,4 +1,4 @@
-import logo from "../assets/images/memo-logo.svg";
+import logo from "../assets/images/memo.png";
 import settings from "../assets/images/settings.svg";
 import React from "react";
 import Card from "./Card";
